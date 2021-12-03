@@ -1,0 +1,2 @@
+# Church-of-Cthulhu
+For my Front End Web Design (DIG3174C), I was given the task of developing a site for a fictionalized client. This client, as decided upon with my professor, would be a bishop for a church. I would take a comical approach with this however and further define this client as a head cultist for Cthulhu, with the established need being to spread the word of the religion and offer services to members. This site was designed and developed from scratch to meet those needs.
